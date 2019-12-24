@@ -4,6 +4,6 @@
 
 class Distance
 {
-	public:
-		static float Hamming(std::vector<float>& lhv, std::vector<float>& rhv);
+public:
+	static float Hamming(std::vector<float>& lhv, std::vector<float>& rhv);
 };

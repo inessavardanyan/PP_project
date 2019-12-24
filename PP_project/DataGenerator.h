@@ -4,6 +4,6 @@
 
 class DataGenerator
 {
-	public:
-		static void generate_data(std::vector<std::vector<float>>& vectors_to_fill);
+public:
+	static void generate_data(std::vector<std::vector<float>>& vectors_to_fill);
 };
